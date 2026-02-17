@@ -1,3 +1,6 @@
 pandas
 streamlit
 plotly
+streamlit>=1.30,<2
+altair<5
+vega-datasets
